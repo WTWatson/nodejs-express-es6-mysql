@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-express-es6-mysql",
+  "version": "1.0.0",
+  "description": "Simple skeleton project to get started with Express ES6 with MySQL and simple ORM.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WTWatson/nodejs-express-es6-mysql.git"
+  },
+  "keywords": [
+    "express-mysql",
+    "nodejs",
+    "boilerplate-template"
+  ],
+  "author": "Will Watson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WTWatson/nodejs-express-es6-mysql/issues"
+  },
+  "homepage": "https://github.com/WTWatson/nodejs-express-es6-mysql#readme"
+}
