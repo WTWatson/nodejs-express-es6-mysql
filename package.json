@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/WTWatson/nodejs-express-es6-mysql/issues"
   },
-  "homepage": "https://github.com/WTWatson/nodejs-express-es6-mysql#readme"
+  "homepage": "https://github.com/WTWatson/nodejs-express-es6-mysql#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
 }
